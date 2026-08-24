@@ -1,0 +1,6 @@
+{
+  "name": "Sanskriti Foods",
+  "description": "E-commerce platform for authentic homemade pickles, papad, and kurdai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
